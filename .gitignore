@@ -1,0 +1,21 @@
+# Ignore plots and figures
+plots/
+*.png
+*.pdf
+*.svg
+*.jpg
+*.jpeg
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local environment / temporary files
+*.tmp
+*.bak
+*.swp
