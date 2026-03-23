@@ -1,0 +1,42 @@
+<caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfileIACS/v6.0.3" xmlns:gml="http://www.opengis.net/gml" xmlns:slf="http://www.slf.ch/snowprofile/1.0" gml:id="697c5b40-44fe-4dab-a2b2-d52d9e176f71"><caaml:metaData><caaml:customData><slf:profiletext-list><slf:profiletext key="TEXT_BLOCK_DEFAULT"><slf:text>Testlauf Eingabe Schneeprofil (noch ohne Material SLF)
+
+PROFILE LOCATION
+----------------
+Sass Nair
+
+PROFILE
+-------
+-oberste 20cm: windgepresster Deckel
+- oberhalb Eislamelle bei 85cm sehr weich, wie Styropor
+- zw. 83-85 Eislamelle
+- unterster halber Meter kantig aufgebauter Schwimmschnee
+- Bodenschicht feucht oder mit Luftl&#246;chern versehen (Schaufel konnte "versteckt" werden).
+
+RUTSCHBLOCK
+-----------
+Klassicher RBT: Ausl&#246;sung des RB nicht m&#246;glich (7).
+Erweiterter RBT (Freeridevariante): Sprung mit Ski und Tempo von Oben: Bruch ganzer Block, glatte Bruchfl&#228;che @ 135
+
+SNOW SURFACE
+------------
+stark Winderodiert
+
+ALARM SIGNS
+-----------
+weder Risse noch Wummger&#228;usche
+
+AVALANCHES
+----------
+keine
+
+AVALANCHE DANGER
+----------------
+2
+
+COMMENT
+-------
+Testlauf ohne Rammsonde/Temperaturprofil. Zum Kennenlernen des Eingabeprogramms
+
+RUTSCHBLOCK TEST
+----------------
+Layer@156.0: Klassischer RBT:keine Ausl&#246;sung.Sprung m.Ski&amp;Tempo:glatt,g.Block</slf:text></slf:profiletext></slf:profiletext-list></caaml:customData></caaml:metaData><caaml:timeRef><caaml:recordTime><caaml:TimeInstant><caaml:timePosition>2020-01-06T14:30:00+01:00</caaml:timePosition></caaml:TimeInstant></caaml:recordTime><caaml:dateTimeReport>2020-01-07T11:03:46+01:00</caaml:dateTimeReport><caaml:dateTimeLastEdit>2020-05-06T08:32:02+02:00</caaml:dateTimeLastEdit></caaml:timeRef><caaml:srcRef/><caaml:locRef><caaml:name>Sass Nair</caaml:name><caaml:validElevation><caaml:ElevationPosition uom="m"><caaml:position>2693</caaml:position></caaml:ElevationPosition></caaml:validElevation><caaml:validAspect><caaml:AspectPosition><caaml:position>SE</caaml:position></caaml:AspectPosition></caaml:validAspect><caaml:validSlopeAngle><caaml:SlopeAnglePosition uom="deg"><caaml:position>30</caaml:position></caaml:SlopeAnglePosition></caaml:validSlopeAngle><caaml:pointLocation><gml:Point id="pointID" srsName="urn:ogc:def:crs:OGC:1.3:CRS84" srsDimension="2"><gml:pos>9.814853 46.525307</gml:pos></gml:Point></caaml:pointLocation></caaml:locRef><caaml:snowProfileResultsOf><caaml:SnowProfileMeasurements dir="top down"><caaml:profileDepth uom="cm">156.0</caaml:profileDepth><caaml:snowPackCond><caaml:hS><caaml:Components><caaml:height uom="cm">156.0</caaml:height></caaml:Components></caaml:hS></caaml:snowPackCond><caaml:stratProfile><caaml:Layer><caaml:depthTop uom="cm">0.0</caaml:depthTop><caaml:thickness uom="cm">21.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>RG</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.2</caaml:avg><caaml:avgMax>0.5</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">P</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">21.0</caaml:depthTop><caaml:thickness uom="cm">17.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F-1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">38.0</caaml:depthTop><caaml:thickness uom="cm">24.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">62.0</caaml:depthTop><caaml:thickness uom="cm">9.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FCxr</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F-4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">71.0</caaml:depthTop><caaml:thickness uom="cm">2.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>IF</caaml:grainFormPrimary><caaml:hardness uom="">I</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">73.0</caaml:depthTop><caaml:thickness uom="cm">15.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FCxr</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">88.0</caaml:depthTop><caaml:thickness uom="cm">20.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainFormSecondary>DH</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">108.0</caaml:depthTop><caaml:thickness uom="cm">48.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainFormSecondary>DH</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer></caaml:stratProfile><caaml:stbTests><caaml:RBlockTest><caaml:noFailure/></caaml:RBlockTest></caaml:stbTests></caaml:SnowProfileMeasurements></caaml:snowProfileResultsOf></caaml:SnowProfile>
