@@ -1,0 +1,29 @@
+<caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfileIACS/v6.0.3" xmlns:gml="http://www.opengis.net/gml" xmlns:slf="http://www.slf.ch/snowprofile/1.0" gml:id="6510d6b8-c50c-428b-806c-0d15edbf784c"><caaml:metaData><caaml:customData><slf:profiletext-list><slf:profiletext key="TEXT_BLOCK_DEFAULT"><slf:text>f&#252;r Masterarbeit Techel / UniBE
+
+PROFILE LOCATION
+----------------
+kammfern, Kuhtritte -&gt; HS 40 - 70 cm
+
+PROFILE
+-------
+voll in der Sonne, SkiPen ca. 20 cm
+
+RUTSCHBLOCK
+-----------
+RB4, unterhalb, rauh @ 68 cm
+zwei ECT's: beide NF
+zwei ST's: 
+ST1:         ST2:
+STE Q2    STM Q2
+
+ALARM SIGNS
+-----------
+kleinfl&#228;chige Setzungsbr&#252;che (Kollaps) beim Begehen
+
+AVALANCHES
+----------
+s. andere Profile
+
+COMMENT
+-------
+SnF Datei in separatem File</slf:text></slf:profiletext></slf:profiletext-list></caaml:customData></caaml:metaData><caaml:timeRef><caaml:recordTime><caaml:TimeInstant><caaml:timePosition>2009-02-28T14:20:00+01:00</caaml:timePosition></caaml:TimeInstant></caaml:recordTime><caaml:dateTimeReport>2009-02-28T19:15:56+01:00</caaml:dateTimeReport><caaml:dateTimeLastEdit>2009-02-28T19:29:05+01:00</caaml:dateTimeLastEdit></caaml:timeRef><caaml:srcRef/><caaml:locRef><caaml:name>Chroneberg, Hengstschlund, Gantrisch (BE)</caaml:name><caaml:validElevation><caaml:ElevationPosition uom="m"><caaml:position>1600</caaml:position></caaml:ElevationPosition></caaml:validElevation><caaml:validAspect><caaml:AspectPosition><caaml:position>S</caaml:position></caaml:AspectPosition></caaml:validAspect><caaml:validSlopeAngle><caaml:SlopeAnglePosition uom="deg"><caaml:position>28</caaml:position></caaml:SlopeAnglePosition></caaml:validSlopeAngle><caaml:pointLocation><gml:Point id="pointID" srsName="urn:ogc:def:crs:OGC:1.3:CRS84" srsDimension="2"><gml:pos>7.379452 46.682969</gml:pos></gml:Point></caaml:pointLocation></caaml:locRef><caaml:snowProfileResultsOf><caaml:SnowProfileMeasurements dir="top down"><caaml:profileDepth uom="cm">50.0</caaml:profileDepth><caaml:snowPackCond><caaml:hS><caaml:Components><caaml:height uom="cm">50.0</caaml:height></caaml:Components></caaml:hS></caaml:snowPackCond><caaml:stratProfile><caaml:Layer><caaml:depthTop uom="cm">0.0</caaml:depthTop><caaml:thickness uom="cm">4.0</caaml:thickness><caaml:wetness uom="">W</caaml:wetness><caaml:grainFormPrimary>MF</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">4.0</caaml:depthTop><caaml:thickness uom="cm">3.0</caaml:thickness><caaml:wetness uom="">M</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">7.0</caaml:depthTop><caaml:thickness uom="cm">16.0</caaml:thickness><caaml:wetness uom="">W</caaml:wetness><caaml:grainFormPrimary>MF</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">23.0</caaml:depthTop><caaml:thickness uom="cm">6.0</caaml:thickness><caaml:wetness uom="">W</caaml:wetness><caaml:grainFormPrimary>RG</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.25</caaml:avg><caaml:avgMax>0.5</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">29.0</caaml:depthTop><caaml:thickness uom="cm">6.0</caaml:thickness><caaml:wetness uom="">W</caaml:wetness><caaml:grainFormPrimary>FCxr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">35.0</caaml:depthTop><caaml:thickness uom="cm">15.0</caaml:thickness><caaml:wetness uom="">D-M</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">P</caaml:hardness></caaml:Layer></caaml:stratProfile><caaml:tempProfile><caaml:Obs><caaml:depth uom="cm">0.0</caaml:depth><caaml:snowTemp uom="degC">0.0</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">50.0</caaml:depth><caaml:snowTemp uom="degC">0.0</caaml:snowTemp></caaml:Obs></caaml:tempProfile><caaml:stbTests><caaml:RBlockTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">32.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>RB4</caaml:testScore><caaml:fractureCharacter>Rough</caaml:fractureCharacter><caaml:releaseType>MB</caaml:releaseType></caaml:Results></caaml:failedOn></caaml:RBlockTest><caaml:ExtColumnTest><caaml:noFailure/></caaml:ExtColumnTest><caaml:ExtColumnTest><caaml:noFailure/></caaml:ExtColumnTest></caaml:stbTests></caaml:SnowProfileMeasurements></caaml:snowProfileResultsOf></caaml:SnowProfile>

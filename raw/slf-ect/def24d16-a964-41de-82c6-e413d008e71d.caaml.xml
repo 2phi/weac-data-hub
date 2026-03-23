@@ -1,0 +1,65 @@
+<caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfileIACS/v6.0.3" xmlns:gml="http://www.opengis.net/gml" xmlns:slf="http://www.slf.ch/snowprofile/1.0" gml:id="def24d16-a964-41de-82c6-e413d008e71d"><caaml:metaData><caaml:customData><slf:profiletext-list><slf:profiletext key="TEXT_BLOCK_DEFAULT"><slf:text>f&#252;r Masterarbeit Techel / Uni BE
+
+PROFILE LOCATION
+----------------
+kammfern, kleiner Hang
+
+PROFILE
+-------
+- keine Temperaturen, da Thermometer-Batterie flach
+- Schwachschicht:
+kantig abgerundet mit vielen kleinen MF-Knollen drin -&gt; ST-Br&#252;che waren deshalb nie ganz glatt
+- Setzung der SD um mind. 5 cm vom Vormittag zum Nachmittag (s. Foto)
+
+RUTSCHBLOCK
+-----------
+kein RB; nur ECT, ST und ECT oD
+
+Vormittags:
+ECT1:                 ECT2:
+3/np                     1/2 fp @ 65 cm
+13/np                   11/np @ 53 cm
+15/np                    20/np @ 42 cm
+20/20 fp                23/23fp @ 35 cm
+
+ECT1oD:             ECT2oD:
+12/12 fp              16/16 fp @ 35 cm
+
+ST1:                     ST2:
+STV Q1               STE Q1 @ 65 cm
+STM Q2              STE Q2 @ 35 cm
+
+Nachmittags (15:00 Uhr):
+bei den ersten beiden ECT und ST gab es Kollaps beim Schneiden (@ 35 cm), evtl. SD an dieser Stelle etwas schw&#228;cher, anschliessend noch drei ECT und drei ST direkt oberhalb Tests vom Morgen durchgef&#252;hrt
+
+ECT3:    ECT4:      ECT5:
+15/15 fp  11/11 fp   12/12 fp @ 35 cm
+
+ST3:      ST4:       ST5:
+STE Q2 STE Q2  STE Q2 @ 35 cm
+
+SNOW SURFACE
+------------
+vormittags: grosser Oberfl&#228;chenreif
+nachmittags: feucht-nass
+
+AVALANCHES
+----------
+vom Vortag:
+zahlreiche feuchte LSL-Rutsche
+heute:
+zahlreiche LSL-Rutsche
+
+COMMENT
+-------
+LWC:
+vormittags:
+SD trocken (bis auf eine Schicht)
+nachmittags:
+SD grossteils feucht/nass - LWC 1 - 6 %
+
+SnF-Daten separat
+
+RUTSCHBLOCK TEST
+----------------
+Layer@35.0: ECT M/H fp</slf:text></slf:profiletext></slf:profiletext-list></caaml:customData></caaml:metaData><caaml:timeRef><caaml:recordTime><caaml:TimeInstant><caaml:timePosition>2009-02-25T10:15:00+01:00</caaml:timePosition></caaml:TimeInstant></caaml:recordTime><caaml:dateTimeReport>2009-02-25T20:01:21+01:00</caaml:dateTimeReport><caaml:dateTimeLastEdit>2009-02-26T10:30:29+01:00</caaml:dateTimeLastEdit></caaml:timeRef><caaml:srcRef/><caaml:locRef><caaml:name>Unteri Rippa, Breccaschlund, Schwarzsee (FR)</caaml:name><caaml:validElevation><caaml:ElevationPosition uom="m"><caaml:position>1380</caaml:position></caaml:ElevationPosition></caaml:validElevation><caaml:validAspect><caaml:AspectPosition><caaml:position>SE</caaml:position></caaml:AspectPosition></caaml:validAspect><caaml:validSlopeAngle><caaml:SlopeAnglePosition uom="deg"><caaml:position>25</caaml:position></caaml:SlopeAnglePosition></caaml:validSlopeAngle><caaml:pointLocation><gml:Point id="pointID" srsName="urn:ogc:def:crs:OGC:1.3:CRS84" srsDimension="2"><gml:pos>7.27078 46.650063</gml:pos></gml:Point></caaml:pointLocation></caaml:locRef><caaml:snowProfileResultsOf><caaml:SnowProfileMeasurements dir="top down"><caaml:profileDepth uom="cm">70.0</caaml:profileDepth><caaml:snowPackCond><caaml:hS><caaml:Components><caaml:height uom="cm">70.0</caaml:height></caaml:Components></caaml:hS></caaml:snowPackCond><caaml:stratProfile><caaml:Layer><caaml:depthTop uom="cm">0.0</caaml:depthTop><caaml:thickness uom="cm">0.5</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>SH</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>4.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">0.5</caaml:depthTop><caaml:thickness uom="cm">4.5</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>RG</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.25</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F-P</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">5.0</caaml:depthTop><caaml:thickness uom="cm">12.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>DF</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">17.0</caaml:depthTop><caaml:thickness uom="cm">7.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.5</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">K</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">24.0</caaml:depthTop><caaml:thickness uom="cm">7.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>RG</caaml:grainFormPrimary><caaml:grainFormSecondary>DF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.25</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">31.0</caaml:depthTop><caaml:thickness uom="cm">4.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">K</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">35.0</caaml:depthTop><caaml:thickness uom="cm">13.0</caaml:thickness><caaml:wetness uom="">M</caaml:wetness><caaml:grainFormPrimary>FCxr</caaml:grainFormPrimary><caaml:grainFormSecondary>MF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">48.0</caaml:depthTop><caaml:thickness uom="cm">22.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>FCxr</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>3.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">P</caaml:hardness></caaml:Layer></caaml:stratProfile><caaml:stbTests><caaml:ExtColumnTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">5.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTN3</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">17.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTN13</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">28.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTN15</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">35.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP20</caaml:testScore></caaml:Results></caaml:failedOn></caaml:ExtColumnTest><caaml:ExtColumnTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">5.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP1</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">17.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTN11</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">28.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTN20</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">35.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP23</caaml:testScore></caaml:Results></caaml:failedOn></caaml:ExtColumnTest></caaml:stbTests></caaml:SnowProfileMeasurements></caaml:snowProfileResultsOf></caaml:SnowProfile>

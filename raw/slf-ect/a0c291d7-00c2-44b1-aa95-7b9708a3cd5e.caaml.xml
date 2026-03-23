@@ -1,0 +1,40 @@
+<caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfileIACS/v6.0.3" xmlns:gml="http://www.opengis.net/gml" xmlns:slf="http://www.slf.ch/snowprofile/1.0" gml:id="a0c291d7-00c2-44b1-aa95-7b9708a3cd5e"><caaml:metaData><caaml:customData><slf:profiletext-list><slf:profiletext key="TEXT_BLOCK_DEFAULT"><slf:text>PROFILE LOCATION
+----------------
+Gipfelhang Chrummfadeflue, unterhalb des felsdurchsetzten Gel&#228;ndes, N-NW, 34&#176;
+
+PROFILE
+-------
+normales Scheeprofil (exkl. Rammwiderstand) sowie RB und ECT
+
+RUTSCHBLOCK
+-----------
+- RB 3 @ 80 cm (bei der ersten Wippbewegung)
+- RB 4 @ 65 cm
+
+SNOW SURFACE
+------------
+zwischen gewellt und unregelm&#228;ssig erodiert
+
+SNOW DRIFT
+----------
+heute und gestern erhebliche Schneeverfrachtungen
+
+ALARM SIGNS
+-----------
+einzelne Wummger&#228;usche (3 Stk. kleinfl&#228;chig verteilt) ab ca. 1850 m&#252;M.
+
+AVALANCHES
+----------
+keine gesehen
+
+AVALANCHE DANGER
+----------------
+Erheblich (spontane Ausl&#246;sungen unwahrscheinlich) ab ca. 1800 - 1900 m&#252;M., s&#228;mtliche Expositionen
+
+COMMENT
+-------
+Einfluss auf Altschneeproblem der bodennahen Schichten beim &#220;bergang von wenig zu viel Schnee wahrscheinlich.
+
+RUTSCHBLOCK TEST
+----------------
+Layer@80.0: bei der 1. Wippbewegung</slf:text></slf:profiletext></slf:profiletext-list></caaml:customData></caaml:metaData><caaml:timeRef><caaml:recordTime><caaml:TimeInstant><caaml:timePosition>2021-12-07T14:30:00+01:00</caaml:timePosition></caaml:TimeInstant></caaml:recordTime><caaml:dateTimeReport>2021-12-07T17:21:30.228000+01:00</caaml:dateTimeReport><caaml:dateTimeLastEdit>2021-12-07T17:52:45.020000+01:00</caaml:dateTimeLastEdit></caaml:timeRef><caaml:srcRef/><caaml:locRef><caaml:name>Chrummfadeflue, Gurnigel</caaml:name><caaml:validElevation><caaml:ElevationPosition uom="m"><caaml:position>1970</caaml:position></caaml:ElevationPosition></caaml:validElevation><caaml:validAspect><caaml:AspectPosition><caaml:position>N</caaml:position></caaml:AspectPosition></caaml:validAspect><caaml:validSlopeAngle><caaml:SlopeAnglePosition uom="deg"><caaml:position>34</caaml:position></caaml:SlopeAnglePosition></caaml:validSlopeAngle><caaml:pointLocation><gml:Point id="pointID" srsName="urn:ogc:def:crs:OGC:1.3:CRS84" srsDimension="2"><gml:pos>7.471721 46.707574</gml:pos></gml:Point></caaml:pointLocation></caaml:locRef><caaml:snowProfileResultsOf><caaml:SnowProfileMeasurements dir="top down"><caaml:profileDepth uom="cm">110.0</caaml:profileDepth><caaml:weatherCond><caaml:airTempPres uom="degC">-7.1</caaml:airTempPres></caaml:weatherCond><caaml:snowPackCond><caaml:hS><caaml:Components><caaml:height uom="cm">110.0</caaml:height></caaml:Components></caaml:hS></caaml:snowPackCond><caaml:stratProfile><caaml:Layer><caaml:depthTop uom="cm">0.0</caaml:depthTop><caaml:thickness uom="cm">17.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>DF</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">17.0</caaml:depthTop><caaml:thickness uom="cm">13.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>DF</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.5</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">30.0</caaml:depthTop><caaml:thickness uom="cm">8.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>DF</caaml:grainFormPrimary><caaml:grainFormSecondary>RG</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg><caaml:avgMax>1.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">38.0</caaml:depthTop><caaml:thickness uom="cm">7.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>RG</caaml:grainFormPrimary><caaml:grainFormSecondary>DF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">4F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">45.0</caaml:depthTop><caaml:thickness uom="cm">20.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>RG</caaml:grainFormPrimary><caaml:grainFormSecondary>FCxr</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F-P</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">65.0</caaml:depthTop><caaml:thickness uom="cm">30.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FCxr</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>0.5</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">95.0</caaml:depthTop><caaml:thickness uom="cm">15.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer></caaml:stratProfile><caaml:tempProfile><caaml:Obs><caaml:depth uom="cm">0.0</caaml:depth><caaml:snowTemp uom="degC">-12.6</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">10.0</caaml:depth><caaml:snowTemp uom="degC">-8.5</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">20.0</caaml:depth><caaml:snowTemp uom="degC">-6.2</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">30.0</caaml:depth><caaml:snowTemp uom="degC">-5.4</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">40.0</caaml:depth><caaml:snowTemp uom="degC">-4.6</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">50.0</caaml:depth><caaml:snowTemp uom="degC">-4.0</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">60.0</caaml:depth><caaml:snowTemp uom="degC">-3.2</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">70.0</caaml:depth><caaml:snowTemp uom="degC">-2.5</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">80.0</caaml:depth><caaml:snowTemp uom="degC">-1.8</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">90.0</caaml:depth><caaml:snowTemp uom="degC">-1.6</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">100.0</caaml:depth><caaml:snowTemp uom="degC">-1.1</caaml:snowTemp></caaml:Obs><caaml:Obs><caaml:depth uom="cm">110.0</caaml:depth><caaml:snowTemp uom="degC">0.0</caaml:snowTemp></caaml:Obs></caaml:tempProfile><caaml:stbTests><caaml:RBlockTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">30.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>RB3</caaml:testScore><caaml:fractureCharacter>Clean</caaml:fractureCharacter><caaml:releaseType>WB</caaml:releaseType></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">45.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>RB4</caaml:testScore><caaml:fractureCharacter>Clean</caaml:fractureCharacter><caaml:releaseType>WB</caaml:releaseType></caaml:Results></caaml:failedOn></caaml:RBlockTest><caaml:ExtColumnTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">30.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP7</caaml:testScore></caaml:Results></caaml:failedOn><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">45.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP21</caaml:testScore></caaml:Results></caaml:failedOn></caaml:ExtColumnTest></caaml:stbTests></caaml:SnowProfileMeasurements></caaml:snowProfileResultsOf></caaml:SnowProfile>

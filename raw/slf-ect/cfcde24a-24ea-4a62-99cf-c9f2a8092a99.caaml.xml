@@ -1,0 +1,23 @@
+<caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfileIACS/v6.0.3" xmlns:gml="http://www.opengis.net/gml" xmlns:slf="http://www.slf.ch/snowprofile/1.0" gml:id="cfcde24a-24ea-4a62-99cf-c9f2a8092a99"><caaml:metaData><caaml:customData><slf:profiletext-list><slf:profiletext key="TEXT_BLOCK_DEFAULT"><slf:text>PROFILE LOCATION
+----------------
+&#220;ber der Einfahrtstraverse der Diretissima
+
+PROFILE
+-------
+Hasty pit, nur Verbindung vom Neuschnee angeschaut
+
+SNOW DRIFT
+----------
+mittere TSA in Kammlagen, nicht so einfach erkennbar
+
+ALARM SIGNS
+-----------
+Vereinzelt Schollebildung im Spurbereich, kleinfl&#228;chig
+
+AVALANCHES
+----------
+nur Lockerschnee, harmlos
+
+COMMENT
+-------
+&#220;ber der Kruste war eine sehr weiche Schicht, Kornformen unklar (aufgebauter Neuschnee?). Die Kruste war aber nicht &#252;berall vorhanden und dann war die Verbindung eher gut.</slf:text></slf:profiletext></slf:profiletext-list></caaml:customData></caaml:metaData><caaml:timeRef><caaml:recordTime><caaml:TimeInstant><caaml:timePosition>2021-04-08T11:15:00+02:00</caaml:timePosition></caaml:TimeInstant></caaml:recordTime><caaml:dateTimeReport>2021-04-08T14:52:07.402000+02:00</caaml:dateTimeReport><caaml:dateTimeLastEdit>2021-04-08T15:34:36.899000+02:00</caaml:dateTimeLastEdit></caaml:timeRef><caaml:srcRef/><caaml:locRef><caaml:name>Weissfluh, Diretissima</caaml:name><caaml:validElevation><caaml:ElevationPosition uom="m"><caaml:position>2680</caaml:position></caaml:ElevationPosition></caaml:validElevation><caaml:validAspect><caaml:AspectPosition><caaml:position>NW</caaml:position></caaml:AspectPosition></caaml:validAspect><caaml:validSlopeAngle><caaml:SlopeAnglePosition uom="deg"><caaml:position>40</caaml:position></caaml:SlopeAnglePosition></caaml:validSlopeAngle><caaml:pointLocation><gml:Point id="pointID" srsName="urn:ogc:def:crs:OGC:1.3:CRS84" srsDimension="2"><gml:pos>9.794198 46.83957</gml:pos></gml:Point></caaml:pointLocation></caaml:locRef><caaml:snowProfileResultsOf><caaml:SnowProfileMeasurements dir="top down"><caaml:profileDepth uom="cm">180.0</caaml:profileDepth><caaml:snowPackCond><caaml:hS><caaml:Components><caaml:height uom="cm">180.0</caaml:height></caaml:Components></caaml:hS></caaml:snowPackCond><caaml:stratProfile><caaml:Layer><caaml:depthTop uom="cm">0.0</caaml:depthTop><caaml:thickness uom="cm">10.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>PP</caaml:grainFormPrimary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">10.0</caaml:depthTop><caaml:thickness uom="cm">15.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>PP</caaml:grainFormPrimary><caaml:grainFormSecondary>DF</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>1.5</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">25.0</caaml:depthTop><caaml:thickness uom="cm">2.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>FC</caaml:grainFormPrimary><caaml:grainFormSecondary>PP</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>2.0</caaml:avg></caaml:Components></caaml:grainSize><caaml:hardness uom="">F</caaml:hardness></caaml:Layer><caaml:Layer><caaml:depthTop uom="cm">27.0</caaml:depthTop><caaml:thickness uom="cm">2.0</caaml:thickness><caaml:wetness uom="">D</caaml:wetness><caaml:grainFormPrimary>MFcr</caaml:grainFormPrimary><caaml:grainFormSecondary>FC</caaml:grainFormSecondary><caaml:grainSize uom="mm"><caaml:Components><caaml:avg>1.0</caaml:avg><caaml:avgMax>2.0</caaml:avgMax></caaml:Components></caaml:grainSize><caaml:hardness uom="">1F-P</caaml:hardness></caaml:Layer></caaml:stratProfile><caaml:stbTests><caaml:ExtColumnTest><caaml:failedOn><caaml:Layer><caaml:depthTop uom="cm">25.0</caaml:depthTop></caaml:Layer><caaml:Results><caaml:testScore>ECTP22</caaml:testScore></caaml:Results></caaml:failedOn></caaml:ExtColumnTest></caaml:stbTests></caaml:SnowProfileMeasurements></caaml:snowProfileResultsOf></caaml:SnowProfile>
